@@ -1,0 +1,512 @@
+0101 Philosophy
+0201 Theoretical Economics
+0202 Applied Economics
+0301 Law
+0302 Political Science
+0303 Sociology
+0304 Ethnology
+0305 Marxist Theory
+0306 Public Security Studies
+0307 CPC History and Party Building
+0308 Discipline Inspection and Supervision
+0401 Education
+0402 Psychology
+0403 Physical Education and Sports Science
+0501 Chinese Language and Literature
+0502 Foreign Languages and Literatures
+0503 Journalism and Communication
+0601 Archaeology
+0602 Chinese History
+0603 World History
+0701 Mathematics
+0702 Physics
+0703 Chemistry
+0704 Astronomy
+0705 Geography
+0706 Atmospheric Science
+0707 Marine Science
+0708 Geophysics
+0709 Geology
+0710 Biology
+0711 Systems Science
+0712 History of Science and Technology
+0713 Ecology
+0714 Statistics
+0801 Mechanics
+0802 Mechanical Engineering
+0803 Optical Engineering
+0804 Instrument Science and Technology
+0805 Materials Science and Engineering
+0806 Metallurgical Engineering
+0807 Power Engineering and Engineering Thermophysics
+0808 Electrical Engineering
+0809 Electronic Science and Technology
+0810 Information and Communication Engineering
+0811 Control Science and Engineering
+0812 Computer Science and Technology
+0813 Architecture
+0814 Civil Engineering
+0815 Hydraulic Engineering
+0816 Surveying and Mapping Science and Technology
+0817 Chemical Engineering and Technology
+0818 Geological Resources and Geological Engineering
+0819 Mining Engineering
+0820 Petroleum and Natural Gas Engineering
+0821 Textile Science and Engineering
+0822 Light Industry Technology and Engineering
+0823 Transportation Engineering
+0824 Naval Architecture and Ocean Engineering
+0825 Aeronautical and Astronautical Science and Technology
+0826 Armament Science and Technology
+0827 Nuclear Science and Technology
+0828 Agricultural Engineering
+0829 Forestry Engineering
+0830 Environmental Science and Engineering
+0831 Biomedical Engineering
+0832 Food Science and Engineering
+0833 Urban and Rural Planning
+0835 Software Engineering
+0836 Bioengineering
+0837 Safety Science and Engineering
+0838 Public Security Technology
+0839 Cyberspace Security
+0901 Crop Science
+0902 Horticulture
+0903 Agricultural Resources and Environment
+0904 Plant Protection
+0905 Animal Science
+0906 Veterinary Medicine
+0907 Forestry
+0908 Fisheries
+0909 Grassland Science
+0910 Soil and Water Conservation and Desertification Control
+1001 Basic Medical Sciences
+1002 Clinical Medicine
+1003 Stomatology
+1004 Public Health and Preventive Medicine
+1005 Traditional Chinese Medicine
+1006 Integrated Chinese and Western Medicine
+1007 Pharmaceutical Sciences
+1008 Chinese Materia Medica
+1009 Special Medicine
+1011 Nursing
+1012 Forensic Medicine
+1101 Military Thought and Military History
+1102 Strategic Studies
+1103 Joint Operations Studies
+1104 Service and Branch Operations Studies
+1105 Military Command Studies
+1106 Military Political Work
+1107 Military Logistics
+1108 Military Equipment Studies
+1109 Military Management
+1110 Military Training
+1111 Military Intelligence Technology
+1201 Management Science and Engineering
+1202 Business Administration
+1203 Agricultural and Forestry Economics and Management
+1204 Public Administration
+1205 Information Resource Management
+1301 Arts Studies
+1401 Integrated Circuit Science and Engineering
+1402 National Security Studies
+1403 Design Studies
+1404 Remote Sensing Science and Technology
+1405 Intelligence Science and Technology
+1406 Nanoscience and Engineering
+1407 Area and Country Studies
+legacy-0504 Arts Studies
+legacy-0601 History
+legacy-0903 Agricultural Resource Utilization
+legacy-1101 Military Thought and Military History
+legacy-1103 Campaign Studies
+legacy-1104 Tactical Studies
+legacy-1106 Military Organization Studies
+legacy-1107 Military Political Work
+legacy-1108 Military Logistics and Equipment Studies
+010101 Marxist Philosophy
+010102 Chinese Philosophy
+010103 Foreign Philosophy
+010104 Logic
+010105 Ethics
+010106 Aesthetics
+010107 Religious Studies
+010108 Philosophy of Science and Technology
+020101 Political Economy
+020102 History of Economic Thought
+020103 Economic History
+020104 Western Economics
+020105 World Economy
+020106 Population, Resource and Environmental Economics
+020201 National Economics
+020202 Regional Economics
+020203 Public Finance (including Taxation)
+020204 Finance (including Insurance)
+020205 Industrial Economics
+020206 International Trade
+020207 Labor Economics
+020208 Statistics
+020209 Quantitative Economics
+020210 Defense Economics
+030101 Jurisprudence
+030102 Legal History
+030103 Constitutional and Administrative Law
+030104 Criminal Law
+030105 Civil and Commercial Law (including Labor and Social Security Law)
+030106 Procedural Law
+030107 Economic Law
+030108 Environmental and Resource Protection Law
+030109 International Law (Public, Private and Economic)
+030110 Military Law
+030201 Political Theory
+030202 Chinese and Comparative Political Systems
+030203 Scientific Socialism and the International Communist Movement
+030204 CPC History (including Party Theory and Party Building)
+030206 International Politics
+030207 International Relations
+030208 Diplomacy
+030301 Sociology
+030302 Demography
+030303 Anthropology
+030304 Folklore (including Chinese Folk Literature)
+030401 Ethnology
+030402 Marxist Ethnic Theory and Policy
+030403 Economics of Chinese Ethnic Minorities
+030404 History of Chinese Ethnic Minorities
+030405 Arts of Chinese Ethnic Minorities
+030501 Basic Principles of Marxism
+030502 History of Marxism
+030503 Studies on the Sinicization of Marxism
+030504 Studies of Marxism Abroad
+030505 Ideological and Political Education
+040101 Principles of Education
+040102 Curriculum and Instruction
+040103 History of Education
+040104 Comparative Education
+040105 Preschool Education
+040106 Higher Education
+040107 Adult Education
+040108 Vocational and Technical Education
+040109 Special Education
+040110 Educational Technology
+040201 Basic Psychology
+040202 Developmental and Educational Psychology
+040203 Applied Psychology
+040301 Sport Humanities and Sociology
+040302 Human Movement Science
+040303 Physical Education and Sports Training
+040304 Traditional Ethnic Sports
+050101 Literary Theory
+050102 Linguistics and Applied Linguistics
+050103 Chinese Linguistics and Philology
+050104 Classical Chinese Philology
+050105 Ancient Chinese Literature
+050106 Modern and Contemporary Chinese Literature
+050107 Languages and Literatures of Chinese Ethnic Minorities
+050108 Comparative Literature and World Literature
+050201 English Language and Literature
+050202 Russian Language and Literature
+050203 French Language and Literature
+050204 German Language and Literature
+050205 Japanese Language and Literature
+050206 Indian Languages and Literatures
+050207 Spanish Language and Literature
+050208 Arabic Language and Literature
+050209 European Languages and Literatures
+050210 Asian and African Languages and Literatures
+050211 Foreign Linguistics and Applied Linguistics
+050301 Journalism
+050302 Communication
+070101 Pure Mathematics
+070102 Computational Mathematics
+070103 Probability and Mathematical Statistics
+070104 Applied Mathematics
+070105 Operations Research and Control Theory
+070201 Theoretical Physics
+070202 Particle and Nuclear Physics
+070203 Atomic and Molecular Physics
+070204 Plasma Physics
+070205 Condensed Matter Physics
+070206 Acoustics
+070207 Optics
+070208 Radio Physics
+070301 Inorganic Chemistry
+070302 Analytical Chemistry
+070303 Organic Chemistry
+070304 Physical Chemistry (including Chemical Physics)
+070305 Polymer Chemistry and Physics
+070401 Astrophysics
+070402 Astrometry and Celestial Mechanics
+070501 Physical Geography
+070502 Human Geography
+070503 Cartography and Geographic Information Systems
+070601 Meteorology
+070602 Atmospheric Physics and Atmospheric Environment
+070701 Physical Oceanography
+070702 Marine Chemistry
+070703 Marine Biology
+070704 Marine Geology
+070801 Solid Earth Geophysics
+070802 Space Physics
+070901 Mineralogy, Petrology and Economic Geology
+070902 Geochemistry
+070903 Paleontology and Stratigraphy (including Paleoanthropology)
+070904 Structural Geology
+070905 Quaternary Geology
+071001 Botany
+071002 Zoology
+071003 Physiology
+071004 Hydrobiology
+071005 Microbiology
+071006 Neurobiology
+071007 Genetics
+071008 Developmental Biology
+071009 Cell Biology
+071010 Biochemistry and Molecular Biology
+071011 Biophysics
+071012 Ecology
+071101 Systems Theory
+071102 Systems Analysis and Integration
+080101 General and Fundamental Mechanics
+080102 Solid Mechanics
+080103 Fluid Mechanics
+080104 Engineering Mechanics
+080201 Mechanical Manufacturing and Automation
+080202 Mechatronic Engineering
+080203 Mechanical Design and Theory
+080204 Vehicle Engineering
+080401 Precision Instruments and Machinery
+080402 Measurement Technology and Instruments
+080501 Materials Physics and Chemistry
+080502 Materials Science
+080503 Materials Processing Engineering
+080601 Metallurgical Physical Chemistry
+080602 Ferrous Metallurgy
+080603 Nonferrous Metallurgy
+080701 Engineering Thermophysics
+080702 Thermal Engineering
+080703 Power Machinery and Engineering
+080704 Fluid Machinery and Engineering
+080705 Refrigeration and Cryogenic Engineering
+080706 Chemical Process Machinery
+080801 Electrical Machines and Appliances
+080802 Power Systems and Automation
+080803 High Voltage and Insulation Technology
+080804 Power Electronics and Electric Drives
+080805 Electrical Engineering Theory and New Technologies
+080901 Physical Electronics
+080902 Circuits and Systems
+080903 Microelectronics and Solid-State Electronics
+080904 Electromagnetic Fields and Microwave Technology
+081001 Communication and Information Systems
+081002 Signal and Information Processing
+081101 Control Theory and Control Engineering
+081102 Detection Technology and Automated Devices
+081103 Systems Engineering
+081104 Pattern Recognition and Intelligent Systems
+081105 Navigation, Guidance and Control
+081201 Computer Architecture
+081202 Computer Software and Theory
+081203 Computer Applications
+081301 Architectural History and Theory
+081302 Architectural Design and Theory
+081303 Urban Planning and Design (including Landscape Planning and Design)
+081304 Architectural Technology
+081401 Geotechnical Engineering
+081402 Structural Engineering
+081403 Municipal Engineering
+081404 Heating, Gas Supply, Ventilation and Air Conditioning
+081405 Disaster Prevention, Mitigation and Protective Engineering
+081406 Bridge and Tunnel Engineering
+081501 Hydrology and Water Resources
+081502 Hydraulics and River Dynamics
+081503 Hydraulic Structure Engineering
+081504 Water Conservancy and Hydropower Engineering
+081505 Harbor, Coastal and Offshore Engineering
+081601 Geodesy and Surveying Engineering
+081602 Photogrammetry and Remote Sensing
+081603 Cartography and Geographic Information Engineering
+081701 Chemical Engineering
+081702 Chemical Technology
+081703 Biochemical Engineering
+081704 Applied Chemistry
+081705 Industrial Catalysis
+081801 Mineral Prospecting and Exploration
+081802 Earth Exploration and Information Technology
+081803 Geological Engineering
+081901 Mining Engineering
+081902 Mineral Processing Engineering
+081903 Safety Technology and Engineering
+082001 Oil and Gas Well Engineering
+082002 Oil and Gas Field Development Engineering
+082003 Oil and Gas Storage and Transportation Engineering
+082101 Textile Engineering
+082102 Textile Materials and Textile Design
+082103 Textile Chemistry and Dyeing and Finishing Engineering
+082104 Fashion Design and Engineering
+082201 Pulp and Paper Engineering
+082202 Sugar Engineering
+082203 Fermentation Engineering
+082204 Leather Chemistry and Engineering
+082301 Road and Railway Engineering
+082302 Transportation Information Engineering and Control
+082303 Transportation Planning and Management
+082304 Vehicle Operation Engineering
+082401 Ship and Ocean Structure Design and Manufacturing
+082402 Marine Engineering
+082403 Underwater Acoustics Engineering
+082501 Aircraft Design
+082502 Aerospace Propulsion Theory and Engineering
+082503 Aerospace Manufacturing Engineering
+082504 Human-Machine and Environmental Engineering
+082601 Weapon Systems and Application Engineering
+082602 Armament Launch Theory and Technology
+082603 Artillery, Automatic Weapons and Ammunition Engineering
+082604 Military Chemistry and Pyrotechnics
+082701 Nuclear Energy Science and Engineering
+082702 Nuclear Fuel Cycle and Materials
+082703 Nuclear Technology and Applications
+082704 Radiation Protection and Environmental Protection
+082801 Agricultural Mechanization Engineering
+082802 Agricultural Soil and Water Engineering
+082803 Agricultural Bioenvironment and Energy Engineering
+082804 Agricultural Electrification and Automation
+082901 Forest Engineering
+082902 Wood Science and Technology
+082903 Forest Chemical Processing Engineering
+083001 Environmental Science
+083002 Environmental Engineering
+083201 Food Science
+083202 Grain, Oil and Plant Protein Engineering
+083203 Agricultural Product Processing and Storage Engineering
+083204 Aquatic Product Processing and Storage Engineering
+090101 Crop Cultivation and Farming Systems
+090102 Crop Genetics and Breeding
+090201 Pomology
+090202 Vegetable Science
+090203 Tea Science
+090401 Plant Pathology
+090402 Agricultural Entomology and Pest Control
+090403 Pesticide Science
+090501 Animal Genetics, Breeding and Reproduction
+090502 Animal Nutrition and Feed Science
+090503 Grassland Science
+090504 Special Economic Animal Husbandry (including Sericulture and Apiculture)
+090601 Basic Veterinary Medicine
+090602 Preventive Veterinary Medicine
+090603 Clinical Veterinary Medicine
+090701 Forest Genetics and Breeding
+090702 Silviculture
+090703 Forest Protection
+090704 Forest Management
+090705 Wildlife Conservation and Utilization
+090706 Landscape Plants and Ornamental Horticulture
+090707 Soil and Water Conservation and Desertification Control
+090801 Aquaculture
+090802 Fishing Science
+090803 Fisheries Resources
+100101 Human Anatomy, Histology and Embryology
+100102 Immunology
+100103 Pathogen Biology
+100104 Pathology and Pathophysiology
+100105 Forensic Medicine
+100106 Radiation Medicine
+100107 Aviation, Aerospace and Maritime Medicine
+100201 Internal Medicine
+100202 Pediatrics
+100203 Geriatrics
+100204 Neurology
+100205 Psychiatry and Mental Health
+100206 Dermatology and Venereology
+100207 Medical Imaging and Nuclear Medicine
+100208 Clinical Laboratory Diagnostics
+100209 Nursing
+100210 Surgery
+100211 Obstetrics and Gynecology
+100212 Ophthalmology
+100213 Otorhinolaryngology
+100214 Oncology
+100215 Rehabilitation Medicine and Physical Therapy
+100216 Sports Medicine
+100217 Anesthesiology
+100218 Emergency Medicine
+100301 Basic Stomatology
+100302 Clinical Stomatology
+100401 Epidemiology and Health Statistics
+100402 Occupational and Environmental Health
+100403 Nutrition and Food Hygiene
+100404 Child and Adolescent Health and Maternal and Child Health
+100405 Health Toxicology
+100406 Military Preventive Medicine
+100501 Basic Theory of Traditional Chinese Medicine
+100502 Clinical Foundations of Traditional Chinese Medicine
+100503 History and Literature of Traditional Chinese Medicine
+100504 Chinese Medicinal Formula Studies
+100505 Diagnostics of Traditional Chinese Medicine
+100506 Internal Medicine of Traditional Chinese Medicine
+100507 Surgery of Traditional Chinese Medicine
+100508 Orthopedics and Traumatology of Traditional Chinese Medicine
+100509 Gynecology of Traditional Chinese Medicine
+100510 Pediatrics of Traditional Chinese Medicine
+100511 Otorhinolaryngology and Ophthalmology of Traditional Chinese Medicine
+100512 Acupuncture and Tuina
+100513 Ethnic Medicine (including Tibetan and Mongolian Medicine)
+100601 Basic Integrated Chinese and Western Medicine
+100602 Clinical Integrated Chinese and Western Medicine
+100701 Medicinal Chemistry
+100702 Pharmaceutics
+100703 Pharmacognosy
+100704 Pharmaceutical Analysis
+100705 Microbial and Biochemical Pharmacy
+100706 Pharmacology
+110201 Military Strategy
+110202 War Mobilization
+110501 Operational Command
+110502 Military Operations Research
+110503 Military Communications
+110504 Military Intelligence
+110505 Cryptography
+110506 Military Education and Training (including Military Sports)
+120201 Accounting
+120202 Business Management (including Finance, Marketing and Human Resources)
+120203 Tourism Management
+120204 Technology Economics and Management
+120301 Agricultural Economics and Management
+120302 Forestry Economics and Management
+120401 Administrative Management
+120402 Social Medicine and Health Service Management
+120403 Educational Economics and Management
+120404 Social Security
+120405 Land Resource Management
+120501 Library Science
+120502 Information Science
+120503 Archival Studies
+050401 Arts Studies
+050402 Musicology
+050403 Fine Arts
+050404 Art and Design
+050405 Drama and Traditional Chinese Opera
+050406 Film Studies
+050407 Radio and Television Arts
+050408 Dance Studies
+060101 Historiography and History of Historiography
+060102 Archaeology and Museology
+060103 Historical Geography
+060104 Historical Philology (including Dunhuang Studies and Paleography)
+060105 Specialized History
+060106 Ancient Chinese History
+060107 Modern and Contemporary Chinese History
+060108 World History
+090301 Soil Science
+090302 Plant Nutrition
+110101 Military Thought
+110102 Military History
+110301 Joint Campaign Studies
+110302 Service Campaign Studies
+110401 Combined-Arms Tactics
+110402 Branch Tactics
+110601 Military Organization and Establishment
+110602 Military Management
+110801 Military Logistics
+110802 Rear-Area Specialized Services
+110803 Military Equipment Studies
