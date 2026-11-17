@@ -1,15 +1,15 @@
-# Personalized Turing Test Annotation Platform (知辨)
+# Personalized Turing Test Lab (PTT-Lab)
 
-[简体中文](README.zh-CN.md) · [Live platform](https://aptbench-annotation-lab.alivelake4.chatgpt.site/) · [Static demo](https://davidmiao1127.github.io/PTT-Lab-Demo/)
+[简体中文](README.zh-CN.md) · [Static demo](https://davidmiao1127.github.io/PTT-Lab-Demo/)
 
-知辨 is a THUIR research platform for evaluating whether generated text resembles a particular scholar’s writing. It provides bilingual interfaces for annotation and research inspection.
+PTT-Lab is a research platform for evaluating whether generated text resembles a particular scholar’s writing. It provides bilingual interfaces for annotation and research inspection.
 
 - **Annotators** choose a domain, scholars, and an information exposure condition. They select the authentic passage in blinded A/B comparisons, rate their confidence on a 1–5 scale, and annotate reasons and textual evidence for a sampled subset of judgments.
 - **Researchers** inspect real judgments by text granularity, information exposure, and eight baseline methods. The password-protected dashboard also supports round-level review of timing, pointer traces, text selections and evidence, plus [JSONL corpus import and export](docs/corpus-exchange.md).
 
 ## Corpus
 
-The bundled corpus contains **630 pairs across 21 pseudonymous scholars** in law, economics, philosophy, computer science, and literature. Each scholar has 10 tasks at each granularity: passage generation, paragraph infilling, and sentence infilling.
+The bundled corpus contains **630 pairs across 21 pseudonymous scholars** in law, economics, philosophy, computer science, and literature. Each scholar has 10 tasks at each granularity as a sample.
 
 The server loads [pairs-release.json](data/pairs-release.json). The same pairs and answer labels are available in [annotation_dataset.sqlite](data/annotation_dataset.sqlite). Participant responses and interaction records are stored separately in the deployment’s D1 database.
 
