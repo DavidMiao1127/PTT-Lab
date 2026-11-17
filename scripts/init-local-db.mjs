@@ -12,7 +12,6 @@ database.migrations_dir = '../../drizzle';
 writeFileSync(localConfig, JSON.stringify(config, null, 2) + '\n');
 
 const result = spawnSync(process.execPath, [
-  '--import', './scripts/sites-env.mjs',
   './node_modules/wrangler/bin/wrangler.js',
   'd1', 'migrations', 'apply', 'DB',
   '--config', fileURLToPath(localConfig), '--local', '--persist-to', '.wrangler/state',
